@@ -3,7 +3,7 @@
 
 <p>El proyecto es un programa de catálogo de comercio hecho en .NET con C# y programación orientada a objetos, utilizando una base de datos SQL. Este programa ofrece una solución completa y eficiente para la gestión de catálogos de productos y servicios en una empresa.
 
-Con este software, los usuarios pueden agregar y modificar productos en el catálogo, así como visualizarlos en una interfaz intuitiva y fácil de usar. Además, el programa permite la gestión de categorías de productos, lo que facilita la organización y búsqueda de los productos.
+Con este software, los usuarios pueden agregar, modificar y eliminar productos en el catálogo, así como visualizarlos en una interfaz intuitiva y fácil de usar. Además, el programa permite la gestión de categorías de productos, lo que facilita la organización y búsqueda de los productos.
 
 El programa también cuenta con una funcionalidad de búsqueda avanzada, lo que permite a los usuarios encontrar fácilmente los productos que están buscando.
 

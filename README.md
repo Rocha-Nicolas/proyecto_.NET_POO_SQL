@@ -9,7 +9,7 @@ El programa también cuenta con una funcionalidad de búsqueda avanzada, lo que 
 
 En resumen, este programa de catálogo de comercio ofrece una solución completa y eficiente para la gestión de catálogos de productos y servicios en una empresa, lo que puede aumentar la eficiencia y mejorar la satisfacción del cliente.</p>
 
-<div>
+
   <img src="https://media.licdn.com/dms/image/D5622AQH1lt8Z4VMeVg/feedshare-shrink_2048_1536/0/1680572619580?e=1683763200&v=beta&t=CkpK5zn9y2NAoJuNvSzZjcHDyDTn3-xKzpEqveP_DSE" alt="Proyecto Catalogo Comercio">
-</div>
+
 

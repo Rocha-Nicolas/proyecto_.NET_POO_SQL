@@ -1,5 +1,5 @@
-# proyecto_.NET_POO_SQL
-POO, SQL y .NET: Catálogo de productos
+Proyecto.NET, POO, SQL
+
 
 
 
